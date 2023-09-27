@@ -1,0 +1,42 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+#hero-section{
+     background-image: url("https://c4.wallpaperflare.com/wallpaper/331/383/725/forest-dark-trees-nature-wallpaper-preview.jpg");
+     background-position:center;
+     text-align: center;
+     color:white;
+     background-repeat: no-repeat;
+     background-size:1300px 420px;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+#hero-section>h1{
+    font-size:50px;
+    padding-top: 120px;
+    text-shadow: 0px 0px 5px rgb(160, 112, 249);
+}
+
+#hero-section>h3{
+    font-size: 20px;
+    font-weight: 100px;
+    line-height: 40px;
+    text-shadow: 0px 0px 5px rgb(160, 112, 249);
+}
+
+#hero-section>button{
+    background-color: orangered;
+    color: whitesmoke;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 120px;
+}
+
+#hero-section>button:hover{
+    background-color:green;
+}
